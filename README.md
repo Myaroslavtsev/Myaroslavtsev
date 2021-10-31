@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Myaroslavtsev
+- 👀 I’m interested in robotics and transit engineering
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: please mail to my account name at Yandex ru
